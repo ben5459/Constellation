@@ -4,7 +4,7 @@ Automatic Tool Changer
 
 ![Tool Change GIF](https://github.com/ben5459/HybridManufacturingPlatform/blob/44d53604ea88ddc55a182922c3dc7c002d66ddbc/Automatic%20Tool%20Changer/Images/Toolchange%20GIF.gif)
 
-
+***
 ## Highlights:
 #### - Wireless - No cables or wires need to be connected to the X carriage. 
 #### - Intelligence built in - Lock engaged/disengaged status and tool attached/detached status reporting.
@@ -13,14 +13,14 @@ Automatic Tool Changer
 #### - Convenient - Tools are stored at the front.
 #### - True kinematic coupling- Design complies with the maxwell criteria.
 
-
+***
 ## Use Cases:
 #### Multi-Color	
 #### Multi-Material
 #### Speed Optimization 
 #### Hybrid Process 
 ###### Additive + Subtractive
-
+***
 
 ## Features:
 - True kinematic coupling that complies with the maxwell criteria.
@@ -30,7 +30,8 @@ Automatic Tool Changer
 - Electrical connection between toolheads is rated for up to 1,000,000 cycles. 
 - Compatible with two and three pin probes.
  
- 
+***
+
 ## Design Requirements:
 - Repeatable: <50micron Standard deviation for plastic parts
 - Reliable: >100k Cycles
@@ -38,6 +39,9 @@ Automatic Tool Changer
 
 ## Current Specifications:
 [Current Specifications](https://github.com/ben5459/Constellation/wiki/Current-Specifications)
+
+# Learn More Here: [Constellation Wiki](https://github.com/ben5459/Constellation/wiki)
+
 
 ## Support
 
