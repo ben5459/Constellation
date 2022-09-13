@@ -2,7 +2,8 @@
 Automatic Tool Changer 
 # Wireless Automatic Toolchanger
 
-![Tool Change GIF](https://github.com/ben5459/HybridManufacturingPlatform/blob/44d53604ea88ddc55a182922c3dc7c002d66ddbc/Automatic%20Tool%20Changer/Images/Toolchange%20GIF.gif)
+![Tool Change GIF](https://github.com/ben5459/Constellation/blob/f236eb92522ea43097289a6e2b468afcad6006df/Images/Toolchange%20GIF%20(1).gif)
+
 
 ***
 ## Highlights:
