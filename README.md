@@ -55,4 +55,4 @@ This is a community product. If you are interested in contributing, there are a 
 * Submit a user mod
 * **[Join the Discord!][discord]**
 
-[discord]: https://discord.gg/NDppsd4K
+[discord]: https://discord.gg/9UcAuQNQDU
